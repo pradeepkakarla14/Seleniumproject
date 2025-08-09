@@ -7,9 +7,7 @@ public class bankApp {
 		Encapusulation b1=new Encapusulation();
 		b1.setBalance(5432.98);
 		b1.getBalacne(6543);
-		
-		
-		
+	
 	}
 	
 

@@ -21,6 +21,8 @@ public class Encapusulation {
 		public void setBalance(double deposit)
 		{
 			System.out.println(balance=balance+deposit);
+			System.out.println("Hi Good Morning");
+			
 			
 		}
 	}
